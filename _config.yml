@@ -32,7 +32,7 @@ resume-url: assets/resume/CV Ali Haider.pdf  # or /assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/syed-ali-haider-abidi-131546149   # https://www.linkedin.com/in/{your url slug} 
+  linkedin: blank  # https://www.linkedin.com/in/{your url slug} 
   github: blank    # https://github.com/{your url slug} 
   
   
